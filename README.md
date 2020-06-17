@@ -1,1 +1,1 @@
-# Dataquest Data Analyst in Python
+# Dataquest Guided Projects
